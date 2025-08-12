@@ -1,0 +1,32 @@
+.Header{height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color:#525252;
+    color: white;
+    box-shadow: 0 4px 4px #969696;
+    
+}
+
+.logor{
+    scale: 2.5;
+    margin-bottom: -30px;
+    margin-right: -20px;
+}
+.logo-container-left{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+padding-left: 15px;
+
+}
+
+
+.logo{opacity: 0.7;
+
+}
+.logo:hover{
+    opacity: 1.4;
+}
+
